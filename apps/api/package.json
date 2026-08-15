@@ -1,0 +1,11 @@
+{
+  "name": "@pore-protector/api",
+  "private": true,
+  "scripts": {
+    "dev": "echo \"API dev not configured yet\"",
+    "build": "echo \"API build not configured yet\"",
+    "lint": "echo \"API lint not configured yet\"",
+    "typecheck": "echo \"API typecheck not configured yet\"",
+    "test": "echo \"API tests not configured yet\""
+  }
+}
