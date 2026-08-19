@@ -5,7 +5,7 @@
     "dev": "echo \"WEB dev not configured yet\"",
     "build": "echo \"WEB build not configured yet\"",
     "lint": "echo \"WEB lint not configured yet\"",
-    "typecheck": "echo \"WEB typecheck not configured yet\"",
+    "typecheck": "tsc --noEmit",
     "test": "echo \"WEB tests not configured yet\""
   }
 }

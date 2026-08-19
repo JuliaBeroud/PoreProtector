@@ -5,7 +5,7 @@
     "dev": "echo \"contracts dev not configured yet\"",
     "build": "echo \"contracts build not configured yet\"",
     "lint": "echo \"contracts lint not configured yet\"",
-    "typecheck": "echo \"contracts typecheck not configured yet\"",
+    "typecheck": "tsc --noEmit",
     "test": "echo \"contracts tests not configured yet\""
   }
 }
